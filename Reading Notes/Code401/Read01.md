@@ -37,4 +37,8 @@ x=10
 y=x
 x=20
 ```
-x value is 20 but y value is still 10
+x value is 20 but y value is still 10  
+
+## Things I want to know more about
+1-I want to know more about the difference between a variable and a value.
+2-I want to know more about time complexity of algorithms.
