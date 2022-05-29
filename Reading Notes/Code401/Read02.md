@@ -32,9 +32,9 @@ so we need to think about that first in baby steps
 
 ## Things I want to know more about
 
-1. <span style="color:yellow; font-weight:900">refactoring and unit tests.<span>
-2. <span style="color:yellow; font-weight:900">how to use pytest.<span>
-3. <span style="color:yellow; font-weight:900">software design.<span>
+1. <span style="color:red; font-weight:900">refactoring and unit tests.<span>
+2. <span style="color:red; font-weight:900">how to use pytest.<span>
+3. <span style="color:red; font-weight:900">software design.<span>
 
 ## some new words for me and it's explanation
 
