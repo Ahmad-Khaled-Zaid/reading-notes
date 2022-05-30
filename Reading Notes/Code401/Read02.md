@@ -30,12 +30,37 @@ so we need to think about that first in baby steps
 2. Write the feature and make the test pass!
 3. Refactor the code — the first version doesn’t need to be the beautiful one (don’t be shy)
 
-## Things I want to know more about
+# What does the if **name** == “**main**”: do?
+
+Before executing code, Python interpreter reads source file and define few special variables/global variables.
+If the python interpreter is running that module (the source file) as the main program, it sets the special **name** variable to have a value “**main**”.
+If this file is being imported from another module, **name** will be set to the module’s name. Module’s name is available as value to __name__ global variable.
+
+***What is a module?***  
+A module is a file containing Python definitions and statements. The file name is the module name with the suffix .py appended.
+
+***Advantages :***  
+
+1. Every Python module has it’s **name** defined and if this is ‘**main**’, it implies that the module is being run standalone by the user and we can do corresponding appropriate actions.  
+2. If you import this script as a module in another script, the **name** is set to the name of the script/module.  
+Python files can act as either reusable modules, or as standalone programs.  
+3. if **name** == “main”: is used to execute some code only if the file was run directly, and not imported.
+
+# Recursion
+
+The process in which a function calls itself directly or indirectly is called recursion and the corresponding function is called a recursive function.
+
+## Need of Recursion
+Recursion is an amazing technique with the help of which we can reduce the length of our code and make it easier to read and write. It has certain advantages over the iteration technique which will be discussed later. A task that can be defined with its similar subtask, recursion is one of the best solutions for it. For example; The Factorial of a number.
+
+
+
+## ***Things I want to know more about***
 
 1. <span style="color:red; font-weight:900">refactoring and unit tests.<span>
 2. <span style="color:red; font-weight:900">how to use pytest.<span>
 3. <span style="color:red; font-weight:900">software design.<span>
 
-## some new words for me and it's explanation
+## ***some new words for me and it's explanation***
 
 1. TDD : Test-driven development
