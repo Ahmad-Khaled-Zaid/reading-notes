@@ -20,3 +20,7 @@ File path is a string that represents the location of the file , it's broken up 
 2- **file name**: the actual name of the file  
 3-***extension***: the end of the file path pre-pended by a period(.) used to indicated the file type
 
+# thing I want to learn about:
+1- can files provide better features than data bases 
+2- is there problems related to the using of the files
+3- what is best cases to use a file system
