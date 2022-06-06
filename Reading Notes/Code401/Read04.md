@@ -16,3 +16,5 @@ Problems (in life and also in computer science) can often seem big and scary. Bu
 
 Together, we’ll learn how to work with recursion in our Python programs by mastering concepts such as recursive functions and recursive data structures. We’ll also talk about maintaining state during recursion and avoiding recomputation by caching results. This is going to be a lot of fun. Onwards and upwards!
 
+## things I want to learn
+learn more about classes concepts and how they work , how to create them and how to use them and how to create objects from them, and learn about the 4 pillars of OOP inheritance, composition, abstraction and polymorphism.
