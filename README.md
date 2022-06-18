@@ -10,6 +10,7 @@
 | Read-class05 | [Linked Lists](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read05) |
 | Read-class06 | [Random Functions](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read06) |
 | Read-class07 | [Python Scopes](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read07) |
+| Read-class08 | [List Comprehensions in Python](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read08) |
 
 
   
