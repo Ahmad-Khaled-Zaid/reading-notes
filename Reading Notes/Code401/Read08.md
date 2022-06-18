@@ -37,4 +37,4 @@ squares = [x**2 for x in range(10)]
 
 
 
-![List Comprehension](./Code401/assets/Read07/listComprhension.PNG)
+![List Comprehension](./assets/Read08/listComprhension.PNG)
