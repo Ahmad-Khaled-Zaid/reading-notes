@@ -14,5 +14,7 @@
 | Read-class09 | [Dunder Methods](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read09) |
 | Read-class09 | [Stacks and Queues](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read10) |  
 | Read-class11 | [Num py](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read11) |  
+| Read-class12 | [Pandans](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read12) |  
+
  ***[Github link](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/SQL)***  
 ***[Linkedin](https://www.linkedin.com/in/ahmadkzaid/)***
