@@ -16,7 +16,6 @@
 | Read-class11 | [Num py](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read11) |  
 | Read-class12 | [Pandans](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read12) |  
 | Read-class13 | [Linear Regressions](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read13) |  
-
 | Read-class14 | [Data Visualization](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read14) |  
 
  ***[Github link](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/SQL)***  
