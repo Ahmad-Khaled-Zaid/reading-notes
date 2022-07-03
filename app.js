@@ -3,12 +3,12 @@
 // let number = 54837;
 // i = 1;
 // let newNumber = 0;
-while (number > 0) {
-  reminder = (number % 10) * Math.pow(10, 5 - i);
-  number = parseInt(number / 10);
-  newNumber += reminder;
-  i++;
-}
+// while (number > 0) {
+//   reminder = (number % 10) * Math.pow(10, 5 - i);
+//   number = parseInt(number / 10);
+//   newNumber += reminder;
+//   i++;
+// }
 
 // //Find all unique characters in a string .
 
@@ -90,9 +90,6 @@ while (number > 0) {
 // }
 
 input = "I am lost";
-text = "";
-for (let i = input.length - 1; i >= 0; i--) {
-  if (input[i] != " ") {
-  } else {
-  }
-}
+splitted_word = input.split(" ").reverse().join(" ");
+console.log(splitted_word);
+// output = "";
