@@ -18,6 +18,7 @@
 | Read-class13 | [Linear Regressions](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read13) |  
 | Read-class14 | [Data Visualization](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read14) |  
 | Read-class15 | [Trees](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read15) |  
+| Read-class16 | [Serverless functions](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read16) |  
 
  ***[Github link](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/SQL)***  
 ***[Linkedin](https://www.linkedin.com/in/ahmadkzaid/)***
