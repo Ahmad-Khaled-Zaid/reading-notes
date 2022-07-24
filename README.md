@@ -20,7 +20,8 @@
 | Read-class15 | [Trees](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read15) |  
 | Read-class16 | [Serverless functions](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read16) |  
 | Read-class17 | [Web Scraping](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read17) | 
-| Read-class18 | [Cryptography](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read18) |  
+| Read-class18 | [Cryptography](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read18) | 
+| Read-class26 | [Cryptography](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read26) | 
 
  ***[Github link](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/SQL)***  
 ***[Linkedin](https://www.linkedin.com/in/ahmadkzaid/)***
