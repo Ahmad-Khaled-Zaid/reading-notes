@@ -23,6 +23,8 @@
 | Read-class18        | [Cryptography](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read18)                  | 
 | Read-class26        | [Django](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read26)                        | 
 | Read-class27        | [Django Models](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read27)                 | 
+| Read-class28        | [Django CRUD](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read28)                 | 
+
 
  ***[Github link](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/SQL)***  
 ***[Linkedin](https://www.linkedin.com/in/ahmadkzaid/)***
