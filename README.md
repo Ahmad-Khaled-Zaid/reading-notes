@@ -26,6 +26,7 @@
 | Read-class28        | [Django CRUD](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read28)                 | 
 | Read-class29       | [DjangoX](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read29)                 | 
 | Read-class30      | [Hash Tables](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read30)                 | 
+| Read-class31      | [Django REST Framework & Docker](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read31)                 | 
 
 
 
