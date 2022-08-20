@@ -29,6 +29,8 @@
 | Read-class31      | [Django REST Framework & Docker](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read31)                 | 
 | Read-class32      | [DRF Permissions Review SQL Prework](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read32)                 | 
 | Read-class33      | [Authentication & Production Server](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read33)                 | 
+| Read-class34      | [API Deployment](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read34)                 | 
+
 
 
 
