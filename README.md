@@ -32,6 +32,8 @@
 | Read-class34      | [API Deployment](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read34)                 | 
 | Read-class35      | [Graphs](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read35)                 | 
 | Read-class36      | [DSA Review](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read36)                 | 
+| Read-class37      | [ES6 syntax](https://ahmad-khaled-zaid.github.io/reading-notes/Reading%20Notes/Code401/Read37)                 | 
+
 
 
 
